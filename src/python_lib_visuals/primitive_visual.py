@@ -28,7 +28,8 @@ plt.ylabel("Frequency")
 plt.show()
 
 # Plotting campaign engagement
-sns.countplot(data["Campaign Engagement"])
+plt.figure(figsize=(8, 6))
+sns.countplot(x="Campaign Engagement", data=data, order=["Low", "Medium", "High"])
 plt.title("Campaign Engagement")
 plt.xlabel("Engagement Level")
 plt.ylabel("Count")

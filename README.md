@@ -4,5 +4,5 @@ This project entails a data visualization exercise that will use PowerBi along w
 You can view the md for [installations](Docs/installations.md)
 
 ## Generating data  
-You can view the md for [data generation ](Docs/installations.md)
+You can view the md for [data generation ](Docs/gen_data.md)
 

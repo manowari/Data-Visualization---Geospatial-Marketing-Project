@@ -1,4 +1,4 @@
-Here are some sample visuals:
+Here are some sample visuals from the primitive .py code:
 
 ![image](https://github.com/manowari/Data-Visualization-/assets/141199798/02eff071-0b03-47a4-8fb2-bd6f834c3f15)
 

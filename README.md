@@ -7,7 +7,7 @@ You can view the md for [installations](Docs/installations.md)
 You can view the md for [data generation ](Docs/gen_data.md)
 
 ## Some done Visualizations 
-You can view the already done views for  [data in python  ](src/python_lib_visuals/results.md)
+You can view the already done views for  [data visualization in python  ](src/python_lib_visuals/results.md)
 
 
 

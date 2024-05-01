@@ -15,3 +15,4 @@ You can download and use natural earth then:
 world_path = "path/to/naturalearth_lowres.shp"
 world = gpd.read_file(world_path)
 ```
+Some tableau docs for [you as a bonus](src/tableau/process.md) 

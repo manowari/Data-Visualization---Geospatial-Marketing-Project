@@ -1,4 +1,4 @@
-Tableau offers usage of dbs and you can use a local server to test or csvs. I'll utilize a python tool which can be installed via `pip install tableau-api-lib` 
+Tableau offers usage of dbs that you can use on a local server and also the normal raw data imports. I'll utilize a python tool which can be installed via `pip install tableau-api-lib` 
 
 
 
